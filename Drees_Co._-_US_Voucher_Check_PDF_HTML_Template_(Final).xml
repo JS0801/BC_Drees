@@ -179,6 +179,9 @@
                 <td style="border:1px solid #000; padding:1.5pt; width:70pt;">
                     Invoice Date
                 </td>
+                <td style="border:1px solid #000; padding:1.5pt; width:70pt;">
+                    Memo
+                </td>
                 <td align="right"
                     style="border:1px solid #000; padding:1.5pt; width:75pt;">
                     Gross Amount
@@ -205,6 +208,9 @@
                         </td>
                         <td style="border:1px solid #000; padding:1.5pt; white-space:nowrap;">
                             ${apply.applydate}
+                        </td>
+                        <td style="border:1px solid #000; padding:1.5pt; white-space:nowrap;">
+                            ${apply.memo}
                         </td>
                         <td align="right"
                             style="border:1px solid #000; padding:1.5pt; white-space:nowrap;">
@@ -284,6 +290,9 @@
                 <td style="border:1px solid #000; padding:1.5pt; width:70pt;">
                     Invoice Date
                 </td>
+                <td style="border:1px solid #000; padding:1.5pt; width:70pt;">
+                    Memo
+                </td>
                 <td align="right"
                     style="border:1px solid #000; padding:1.5pt; width:75pt;">
                     Gross Amount
@@ -310,6 +319,9 @@
                         </td>
                         <td style="border:1px solid #000; padding:1.5pt; white-space:nowrap;">
                             ${apply.applydate}
+                        </td>
+                        <td style="border:1px solid #000; padding:1.5pt; white-space:nowrap;">
+                            ${apply.memo}
                         </td>
                         <td align="right"
                             style="border:1px solid #000; padding:1.5pt; white-space:nowrap;">
