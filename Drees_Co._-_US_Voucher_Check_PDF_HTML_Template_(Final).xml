@@ -201,7 +201,7 @@
                 <#if apply_index < 8>
                     <tr>
                         <td style="border:1px solid #000; padding:1.5pt; white-space:nowrap; overflow:hidden;">
-                            ${apply.internalid.memo}
+                            ${apply.refnum}
                         </td>
                         <td style="border:1px solid #000; padding:1.5pt; white-space:nowrap;">
                             ${apply.applydate}
